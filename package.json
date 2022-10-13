@@ -1,0 +1,18 @@
+{
+  "name": "boko-tutorial",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "events": "^3.3.0",
+    "face-api.js": "^0.22.2",
+    "gsap": "^3.10.4",
+    "three": "^0.142.0",
+    "vanta": "^0.5.24",
+    "vite": "^2.9.9"
+  }
+}
